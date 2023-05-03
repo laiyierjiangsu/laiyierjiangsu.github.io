@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Laiyierjiangsu's blog"
+name: "laiyierjiangsu's blog"
 # Short bio or description (displayed in the header)
 description: "个人技术公众号 技术分享交流"
 
@@ -51,7 +51,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: laiyierjiangsu@guxiren
+  twitter: guxiren
   youtube:
 
 # Text under the icons in footer
