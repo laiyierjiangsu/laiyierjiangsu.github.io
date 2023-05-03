@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 28e80a6c937145af4ff8
+  clientSecret: 64d709c907df2a7518ab1de395426487d7708910
   repo: laiyierjiangsu.github.io
   owner: laiyierjiangsu
 
