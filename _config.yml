@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "KHacker's blog"
+name: "Laiyierjiangsu's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：程序员柠檬  分享编程资源 | 学习路线"
+description: "个人技术公众号 技术分享交流"
 
 #
 # Flags below are optional
@@ -39,7 +39,7 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: laiyierjiangsu
+  zhihu: https://www.zhihu.com/people/laiyierjiangsu
   email: laiyierjiangsu@163.com
   facebook:
   flickr:
@@ -51,11 +51,11 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  #twitter: frommidworld
+  twitter: laiyierjiangsu@guxiren
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2023 laiyierjiangsu
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
