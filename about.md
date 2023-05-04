@@ -9,7 +9,7 @@ permalink: /about/
 
 [个人技术公众号](https://github.com/laiyierjiangsu)分享编程学习路线、编程学习资源，记录技术成长，欢迎扫码添加：
 
-![公众号二维码](https://github.com/laiyierjiangsu/blog_image/blob/master/test/20230503185430.png?raw=true)
+![公众号二维码](https://github.com/laiyierjiangsu/blog_image/blob/master/profile/qrcode_0.5m.jpg?raw=true)
 
 
 
