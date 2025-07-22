@@ -1,14 +1,18 @@
 site_name: Kaka's Blog
 site_url: https://example.com
-nav:
-  - Home: index.md
-  - About: about.md
+site_description: "test"
+# nav:
+#   - Home: index.md
+#   - About: about.md
+#   - Blog: blog/index.md
 theme: 
   name: material
+  custom_dir: overrides
   icon:
     logo: fontawesome/solid/k
   features:
     - navigation.footer
+    - navigation.indexes
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -37,6 +41,7 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+  generator: false
   analytics:
     provider: google
     property: G-FE01CJ4S2K
@@ -57,16 +62,44 @@ extra:
   social:
     - icon: simple/github
       link: https://github.com/james-willett
+      name: test1
     - icon: simple/github
       link: https://linkedin.com/in/willettjames
+      name: test2
 
 copyright: >
-  Copyright &copy; 2016 - 2024 Martin Donath –
+  Copyright &copy; 2016 - 2025 Kaka Yin –
   <a href="#__consent">Change cookie settings</a>
 
 plugins:
   - privacy
   - search
   - social
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_excerpt: required
+      archive_name: 归档
+      #archive_date_format: MMMM yyyy
+      #archive_url_date_format: yyyy/MM
+      archive_url_format: "{date}"
+      categories_name: 分类
+      categories_url_format: "category/{slug}"
+      pagination_per_page: 5
+      post_url_format: "blog/{slug}"
+      categories_allowed:
+        - 生活
+        - 技术
+  - rss:
+      match_path: .* #为什么加了posts就不行呢？
+      pretty_print: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+      # categories:
+      #   - 生活
+      #   - 技术
 
-  
+  - tags:
+      tags_file: tags.md
+
