@@ -75,6 +75,9 @@ plugins:
   - privacy
   - search
   - social
+  # - minify:
+  #     minify_js: false  # 禁用 JS 压缩和重写
+  #     minify_css: false
   - blog:
       blog_dir: .
       blog_toc: true

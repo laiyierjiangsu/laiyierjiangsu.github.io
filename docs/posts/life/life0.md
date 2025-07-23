@@ -5,6 +5,7 @@ categories:
   - 生活
 tags:
   - 生活
+comments: true
 ---
 # 这是生活的第一个帖子
 This is a summary!

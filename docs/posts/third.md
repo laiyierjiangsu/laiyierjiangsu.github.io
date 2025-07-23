@@ -5,6 +5,7 @@ date:
     updated: 2025-04-21
 categories:
   - 技术
+comments: true
 ---
 
 This is summary!
