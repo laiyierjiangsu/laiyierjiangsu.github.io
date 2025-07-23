@@ -1,2 +1,1 @@
-# Blog
-![picture](images/roster.png)
+# 我的主页

@@ -1,10 +1,12 @@
 site_name: Kaka's Blog
-site_url: https://example.com
+site_url: https://heykaka.com
+repo_name: laiyierjiangsu/laiyierjiangsu.github.io 
 site_description: "test"
-# nav:
-#   - Home: index.md
-#   - About: about.md
-#   - Blog: blog/index.md
+nav:
+  - Home: index.md
+  - About: about.md
+  - RSS: rss.md
+  - Blog: blog/index.md
 theme: 
   name: material
   custom_dir: overrides
@@ -72,29 +74,29 @@ copyright: >
   <a href="#__consent">Change cookie settings</a>
 
 plugins:
-  - privacy
+  #- privacy
   - search
   - social
   # - minify:
   #     minify_js: false  # 禁用 JS 压缩和重写
   #     minify_css: false
   - blog:
-      blog_dir: .
-      blog_toc: true
-      post_excerpt: required
-      archive_name: 归档
-      #archive_date_format: MMMM yyyy
-      #archive_url_date_format: yyyy/MM
-      archive_url_format: "{date}"
-      categories_name: 分类
-      categories_url_format: "category/{slug}"
-      pagination_per_page: 5
-      post_url_format: "blog/{slug}"
-      categories_allowed:
-        - 生活
-        - 技术
+      blog_dir: blog
+      # blog_toc: true
+      # post_excerpt: required
+      # archive_name: 归档
+      # #archive_date_format: MMMM yyyy
+      # #archive_url_date_format: yyyy/MM
+      # archive_url_format: "{date}"
+      # categories_name: 分类
+      # categories_url_format: "category/{slug}"
+      # pagination_per_page: 5
+      # post_url_format: "blog/{slug}"
+      # categories_allowed:
+      #   - 生活
+      #   - 技术
   - rss:
-      match_path: .* #为什么加了posts就不行呢？
+      match_path: ./blog/* #为什么加了posts就不行呢？
       pretty_print: true
       date_from_meta:
         as_creation: date.created
@@ -104,5 +106,5 @@ plugins:
       #   - 技术
 
   - tags:
-      tags_file: tags.md
+      tags_file: blog/tags.md
 
