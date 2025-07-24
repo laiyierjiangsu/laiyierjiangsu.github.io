@@ -1,16 +1,11 @@
-site_name: Kaka的个人网站
+site_name: kaka的个人网站
 site_url: https://heykaka.com
 repo_name: laiyierjiangsu/laiyierjiangsu.github.io 
 site_description: "test"
-nav:
-  - Home: home.md
-  - About: about.md
-  - RSS: rss.md
-  - Blog: 
-    - blog : blog/index.md
+
 theme: 
   name: material
-  custom_dir: overrides
+  custom_dir: docs/overrides
   icon:
     logo: fontawesome/solid/k
   features:
@@ -70,6 +65,13 @@ extra:
       link: https://linkedin.com/in/willettjames
       name: test2
 
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mouse.js
+  #- javascripts/expend_blog.js
+
 copyright: >
   Copyright &copy; 2016 - 2025 Kaka Yin –
   <a href="#__consent">Change cookie settings</a>
@@ -108,4 +110,12 @@ plugins:
 
   - tags:
       tags_file: blog/tags.md
+
+
+nav:
+  - About: about.md
+  - RSS: rss.md
+  - Blog: 
+    - tag : blog/tags.md
+    - blog主页 : blog/index.md
 
