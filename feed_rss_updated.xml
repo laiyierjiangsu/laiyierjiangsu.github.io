@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     
-    <title>Kaka&#39;s Blog</title>
+    <title>Kaka的博客</title>
     <description>test</description>
-    <link>https://example.com/</link>
-    <atom:link href="https://example.com/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+    <link>https://heykaka.com/</link>
+    <atom:link href="https://heykaka.com/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
     
     
@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Tue, 22 Jul 2025 06:43:44 -0000</pubDate>
-    <lastBuildDate>Tue, 22 Jul 2025 06:43:44 -0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 08:57:40 -0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 08:57:40 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -24,49 +24,12 @@
     
     <image>
       <url>None</url>
-      <title>Kaka's Blog</title>
-      <link>https://example.com/</link>
+      <title>Kaka的博客</title>
+      <link>https://heykaka.com/</link>
     </image>
     
 
     
-    
-    <item>
-      <title>Blog</title>
-      
-      
-      
-      
-      <description>&lt;h1&gt;Blog&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;picture&#34; src=&#34;images/roster.png&#34;&gt;&lt;/p&gt;</description>
-      <link>https://example.com/</link>
-      <pubDate>Tue, 22 Jul 2025 14:41:18 +0000</pubDate>
-      <source url="https://example.com/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://example.com/</guid>
-      
-      <enclosure url="https://example.com/assets/images/social/index.png" type="image/png" length="22232" />
-      
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      
-      
-      
-      
-      <description>&lt;h1&gt;Tags&lt;/h1&gt;
-&lt;p&gt;Following is a list of relevant tags:&lt;/p&gt;
-&lt;!-- material/tags { toc: true } --&gt;</description>
-      <link>https://example.com/tags/</link>
-      <pubDate>Tue, 22 Jul 2025 14:41:18 +0000</pubDate>
-      <source url="https://example.com/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://example.com/tags/</guid>
-      
-      <enclosure url="https://example.com/assets/images/social/tags.png" type="image/png" length="22684" />
-      
-    </item>
     
   </channel>
 </rss>
