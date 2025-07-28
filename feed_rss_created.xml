@@ -3,9 +3,9 @@
   <channel>
     
     <title>Kaka的博客</title>
-    <description>test</description>
-    <link>https://heykaka.com/</link>
-    <atom:link href="https://heykaka.com/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+    <description>Kaka的博客是一个记录生活和技术的个人博客,旨在分享个人经验、学习笔记和技术文章。博客内容涵盖了生活点滴、编程技巧、软件开发、前端技术等多个领域，希望能够帮助更多的人提升技能和解决问题。</description>
+    <link>https://laiyierjiangsu.github.io/</link>
+    <atom:link href="https://laiyierjiangsu.github.io/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
     
     
@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Mon, 28 Jul 2025 02:02:28 -0000</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 02:02:28 -0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 02:33:52 -0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 02:33:52 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -25,11 +25,73 @@
     <image>
       <url>None</url>
       <title>Kaka的博客</title>
-      <link>https://heykaka.com/</link>
+      <link>https://laiyierjiangsu.github.io/</link>
     </image>
     
 
     
+    
+    <item>
+      <title>最近发布</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;最近发布&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/</link>
+      <pubDate>Thu, 24 Jul 2025 15:10:39 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka的博客</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/index.png" type="image/png" length="18277" />
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;关于&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;我的照片&#34; src=&#34;assets/kaka.jpg&#34;&gt;&lt;/p&gt;
+&lt;h1&gt;社交&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/people/laiyierjiangsu&#34;&gt;知乎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.douban.com/people/KHacker&#34;&gt;豆瓣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Github](https://githu...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://laiyierjiangsu.github.io/about/</link>
+      <pubDate>Wed, 23 Jul 2025 15:22:35 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka的博客</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/about/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/about.png" type="image/png" length="18135" />
+      
+    </item>
+    
+    <item>
+      <title>订阅</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;订阅&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_created.xml&#34;&gt;Created&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_updated.xml&#34;&gt;Updated&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://laiyierjiangsu.github.io/rss/</link>
+      <pubDate>Wed, 23 Jul 2025 15:22:35 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka的博客</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/rss/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/rss.png" type="image/png" length="18135" />
+      
+    </item>
     
   </channel>
 </rss>
