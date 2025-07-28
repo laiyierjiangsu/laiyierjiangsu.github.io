@@ -8,13 +8,13 @@
     <atom:link href="https://laiyierjiangsu.github.io/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
     
-    
+    <managingEditor>Kaka Yin</managingEditor>
     
     <language>en</language>
 
     
-    <pubDate>Mon, 28 Jul 2025 03:26:29 -0000</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 03:26:29 -0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 12:12:25 -0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 12:12:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,185 +32,21 @@
     
     
     <item>
-      <title>测试rss</title>
+      <title>最近发布</title>
       
       
       
       
         
       
-      <description>&lt;h1&gt;测试rss&lt;/h1&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/</link>
-      <pubDate>Mon, 28 Jul 2025 11:26:24 +0000</pubDate>
+      <description>&lt;h1&gt;最近发布&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/</guid>
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/four.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>first blog</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;first blog&lt;/h1&gt;
-&lt;p&gt;This is a summary! This is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summary&lt;/p&gt;
-&lt;h2&gt;简介&lt;/h2&gt;
-&lt;p&gt;这里是文章简介……&lt;/p&gt;
-&lt;h2&gt;技术细节&lt;/h2&gt;
-&lt;p&gt;技术细节说明……&lt;/p&gt;
-&lt;h2&gt;结论&lt;/h2&gt;
-&lt;p&gt;总结内容……&lt;/p&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2024/01/31/first-blog/</link>
-      <pubDate>Mon, 28 Jul 2025 11:02:01 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2024/01/31/first-blog/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/first.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>Second</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;p&gt;This is summary!&lt;/p&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2025/02/28/second/</link>
-      <pubDate>Mon, 28 Jul 2025 11:02:01 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/02/28/second/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/second.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>这是生活的第一个帖子</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;这是生活的第一个帖子&lt;/h1&gt;
-&lt;p&gt;This is a summary!&lt;/p&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2025/01/31/%E8%BF%99%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90/</link>
-      <pubDate>Mon, 28 Jul 2025 11:02:01 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/01/31/%E8%BF%99%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/life/life0.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>订阅</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;订阅&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_created.xml&#34;&gt;Created&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_updated.xml&#34;&gt;Updated&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://laiyierjiangsu.github.io/rss/</link>
-      <pubDate>Mon, 28 Jul 2025 10:00:50 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/rss/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/rss.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>技术</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
-      <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Mon, 28 Jul 2025 03:26:31 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category/技术.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>生活</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
-      <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Mon, 28 Jul 2025 03:26:31 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category/生活.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>2024</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;2024&lt;/h1&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2024/</link>
-      <pubDate>Mon, 28 Jul 2025 03:26:30 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2024/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2024.png" type="image/png" length="0" />
-      
-    </item>
-    
-    <item>
-      <title>2025</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Mon, 28 Jul 2025 03:26:30 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025.png" type="image/png" length="0" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/index.png" type="image/png" length="32463" />
       
     </item>
     
@@ -231,31 +67,227 @@
 &lt;li&gt;[Github](https://githu...&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/about/</link>
-      <pubDate>Thu, 24 Jul 2025 16:56:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/about/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/about.png" type="image/png" length="18135" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/about.png" type="image/png" length="32322" />
       
     </item>
     
     <item>
-      <title>最近发布</title>
+      <title>订阅</title>
       
       
       
       
         
       
-      <description>&lt;h1&gt;最近发布&lt;/h1&gt;</description>
-      <link>https://laiyierjiangsu.github.io/</link>
-      <pubDate>Thu, 24 Jul 2025 16:04:24 +0000</pubDate>
+      <description>&lt;h1&gt;订阅&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_created.xml&#34;&gt;Created&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_updated.xml&#34;&gt;Updated&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://laiyierjiangsu.github.io/rss/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/</guid>
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/rss/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/index.png" type="image/png" length="18277" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/rss.png" type="image/png" length="32322" />
+      
+    </item>
+    
+    <item>
+      <title>这是生活的第一个帖子</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;这是生活的第一个帖子&lt;/h1&gt;
+&lt;p&gt;This is a summary!&lt;/p&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/01/31/%E8%BF%99%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/01/31/%E8%BF%99%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/life/life0.png" type="image/png" length="32885" />
+      
+    </item>
+    
+    <item>
+      <title>first blog</title>
+      
+      
+        
+      <author>KakaYin</author>
+        
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;first blog&lt;/h1&gt;
+&lt;p&gt;This is a summary! This is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summary&lt;/p&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;这里是文章简介……&lt;/p&gt;
+&lt;h2&gt;技术细节&lt;/h2&gt;
+&lt;p&gt;技术细节说明……&lt;/p&gt;
+&lt;h2&gt;结论&lt;/h2&gt;
+&lt;p&gt;总结内容……&lt;/p&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2024/01/31/first-blog/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2024/01/31/first-blog/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/first.png" type="image/png" length="38326" />
+      
+    </item>
+    
+    <item>
+      <title>测试rss</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;测试rss&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/four.png" type="image/png" length="34737" />
+      
+    </item>
+    
+    <item>
+      <title>Second</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;p&gt;This is summary!&lt;/p&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/02/28/second/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/02/28/second/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/second.png" type="image/png" length="38648" />
+      
+    </item>
+    
+    <item>
+      <title>标签</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;标签&lt;/h1&gt;
+&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;CSS&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;posts/tech/first.md&#34;&gt;first blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;HTML5&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;posts/tech/first.md&#34;&gt;first blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&amp;lt;sp...&lt;/h2&gt;</description>
+      <link>https://laiyierjiangsu.github.io/tags/</link>
+      <pubDate>Mon, 28 Jul 2025 19:36:10 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/tags/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/tags.png" type="image/png" length="32322" />
+      
+    </item>
+    
+    <item>
+      <title>技术</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Mon, 28 Jul 2025 12:12:26 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category/技术.png" type="image/png" length="32322" />
+      
+    </item>
+    
+    <item>
+      <title>生活</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 28 Jul 2025 12:12:25 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category/生活.png" type="image/png" length="32322" />
+      
+    </item>
+    
+    <item>
+      <title>2024</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;2024&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2024/</link>
+      <pubDate>Mon, 28 Jul 2025 12:12:25 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2024/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2024.png" type="image/png" length="34418" />
+      
+    </item>
+    
+    <item>
+      <title>2025</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/</link>
+      <pubDate>Mon, 28 Jul 2025 12:12:25 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025.png" type="image/png" length="35307" />
       
     </item>
     
@@ -274,7 +306,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/03/28/third/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/third.png" type="image/png" length="18705" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/third.png" type="image/png" length="32806" />
       
     </item>
     
