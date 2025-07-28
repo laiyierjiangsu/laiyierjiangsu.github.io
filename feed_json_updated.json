@@ -1,13 +1,23 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Kaka\u7684\u535a\u5ba2",
+    "title": "Kaka's Blog",
     "home_page_url": "https://laiyierjiangsu.github.io/",
     "feed_url": "https://laiyierjiangsu.github.io/feed_json_updated.json",
-    "description": "Kaka\u7684\u535a\u5ba2\u662f\u4e00\u4e2a\u8bb0\u5f55\u751f\u6d3b\u548c\u6280\u672f\u7684\u4e2a\u4eba\u535a\u5ba2,\u65e8\u5728\u5206\u4eab\u4e2a\u4eba\u7ecf\u9a8c\u3001\u5b66\u4e60\u7b14\u8bb0\u548c\u6280\u672f\u6587\u7ae0\u3002\u535a\u5ba2\u5185\u5bb9\u6db5\u76d6\u4e86\u751f\u6d3b\u70b9\u6ef4\u3001\u7f16\u7a0b\u6280\u5de7\u3001\u8f6f\u4ef6\u5f00\u53d1\u3001\u524d\u7aef\u6280\u672f\u7b49\u591a\u4e2a\u9886\u57df\uff0c\u5e0c\u671b\u80fd\u591f\u5e2e\u52a9\u66f4\u591a\u7684\u4eba\u63d0\u5347\u6280\u80fd\u548c\u89e3\u51b3\u95ee\u9898\u3002",
+    "description": "Kaka's Blog is a personal blog that records life and technology, aiming to share personal experiences, learning notes, and technical articles. The blog covers various fields, including life snippets, programming skills, software development, front-end technology, etc., hoping to help more people improve their skills and solve problems.",
     "icon": null,
     "authors": [],
     "language": "en",
     "items": [
+        {
+            "id": "https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/",
+            "url": "https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/",
+            "title": "\u6d4b\u8bd5rss",
+            "content_html": "<h1>\u6d4b\u8bd5rss</h1>",
+            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/four.png",
+            "date_modified": "2025-07-28T11:26:24+00:00",
+            "authors": [],
+            "tags": []
+        },
         {
             "id": "https://laiyierjiangsu.github.io/2024/01/31/first-blog/",
             "url": "https://laiyierjiangsu.github.io/2024/01/31/first-blog/",
@@ -54,7 +64,7 @@
             "title": "\u6280\u672f",
             "content_html": "<h1>\u6280\u672f</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/category/\u6280\u672f.png",
-            "date_modified": "2025-07-28T03:20:26.715349+00:00",
+            "date_modified": "2025-07-28T03:26:31.051076+00:00",
             "authors": [],
             "tags": []
         },
@@ -64,7 +74,7 @@
             "title": "\u751f\u6d3b",
             "content_html": "<h1>\u751f\u6d3b</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/category/\u751f\u6d3b.png",
-            "date_modified": "2025-07-28T03:20:26.702056+00:00",
+            "date_modified": "2025-07-28T03:26:31.022639+00:00",
             "authors": [],
             "tags": []
         },
@@ -74,7 +84,7 @@
             "title": "2024",
             "content_html": "<h1>2024</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/2024.png",
-            "date_modified": "2025-07-28T03:20:26.689397+00:00",
+            "date_modified": "2025-07-28T03:26:30.997791+00:00",
             "authors": [],
             "tags": []
         },
@@ -84,17 +94,7 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/2025.png",
-            "date_modified": "2025-07-28T03:20:26.677301+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
-            "id": "https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/",
-            "url": "https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/",
-            "title": "\u6d4b\u8bd5rss",
-            "content_html": "<h1>\u6d4b\u8bd5rss</h1>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/four.png",
-            "date_modified": "2025-07-28T03:20:25.825146+00:00",
+            "date_modified": "2025-07-28T03:26:30.983972+00:00",
             "authors": [],
             "tags": []
         },
