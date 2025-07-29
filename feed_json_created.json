@@ -13,22 +13,32 @@
     "language": "en",
     "items": [
         {
-            "id": "https://laiyierjiangsu.github.io/2025/01/31/%E8%BF%99%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90/",
-            "url": "https://laiyierjiangsu.github.io/2025/01/31/%E8%BF%99%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90/",
-            "title": "\u8fd9\u662f\u751f\u6d3b\u7684\u7b2c\u4e00\u4e2a\u5e16\u5b50",
-            "content_html": "<h1>\u8fd9\u662f\u751f\u6d3b\u7684\u7b2c\u4e00\u4e2a\u5e16\u5b50</h1>\n<p>This is a summary!</p>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/life/life0.png",
-            "date_published": "2025-07-28T19:36:10+00:00",
+            "id": "https://laiyierjiangsu.github.io/rss/",
+            "url": "https://laiyierjiangsu.github.io/rss/",
+            "title": "\u8ba2\u9605",
+            "content_html": "<h1>\u8ba2\u9605</h1>\n<ul>\n<li><a href=\"http://laiyierjiangsu.github.io/feed_rss_created.xml\">Created</a></li>\n<li><a href=\"http://laiyierjiangsu.github.io/feed_rss_updated.xml\">Updated</a></li>\n</ul>",
+            "image": "https://laiyierjiangsu.github.io/assets/images/social/rss.png",
+            "date_published": "2025-07-29T20:26:50+00:00",
             "authors": [],
             "tags": []
         },
         {
-            "id": "https://laiyierjiangsu.github.io/2024/01/31/first-blog/",
-            "url": "https://laiyierjiangsu.github.io/2024/01/31/first-blog/",
-            "title": "first blog",
-            "content_html": "<h1>first blog</h1>\n<p>This is a summary! This is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summaryThis is a summary</p>\n<h2>\u7b80\u4ecb</h2>\n<p>\u8fd9\u91cc\u662f\u6587\u7ae0\u7b80\u4ecb\u2026\u2026</p>\n<h2>\u6280\u672f\u7ec6\u8282</h2>\n<p>\u6280\u672f\u7ec6\u8282\u8bf4\u660e\u2026\u2026</p>\n<h2>\u7ed3\u8bba</h2>\n<p>\u603b\u7ed3\u5185\u5bb9\u2026\u2026</p>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/tech/first.png",
-            "date_published": "2025-07-28T19:36:10+00:00",
+            "id": "https://laiyierjiangsu.github.io/includes/abbreviations/",
+            "url": "https://laiyierjiangsu.github.io/includes/abbreviations/",
+            "title": "Abbreviations",
+            "content_html": "<p><em>[HTML]: Hyper Text Markup Language\n</em>[W3C]: World Wide Web Consortium</p>",
+            "image": "https://laiyierjiangsu.github.io/assets/images/social/includes/abbreviations.png",
+            "date_published": "2025-07-29T20:26:50+00:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/",
+            "url": "https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/",
+            "title": "Mkdocs\u7684\u793a\u4f8b",
+            "content_html": "<h1>Demos For MKDocs</h1>",
+            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/tech/MKDocs_Demo.png",
+            "date_published": "2025-07-29T20:26:50+00:00",
             "authors": [
                 {
                     "name": "KakaYin"
@@ -37,42 +47,12 @@
             "tags": []
         },
         {
-            "id": "https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/",
-            "url": "https://laiyierjiangsu.github.io/2025/07/28/%E6%B5%8B%E8%AF%95rss/",
-            "title": "\u6d4b\u8bd5rss",
-            "content_html": "<h1>\u6d4b\u8bd5rss</h1>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/tech/four.png",
-            "date_published": "2025-07-28T19:36:10+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
-            "id": "https://laiyierjiangsu.github.io/2025/02/28/second/",
-            "url": "https://laiyierjiangsu.github.io/2025/02/28/second/",
-            "title": "Second",
-            "content_html": "<p>This is summary!</p>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/tech/second.png",
-            "date_published": "2025-07-28T19:36:10+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
             "id": "https://laiyierjiangsu.github.io/tags/",
             "url": "https://laiyierjiangsu.github.io/tags/",
             "title": "\u6807\u7b7e",
-            "content_html": "<h1>\u6807\u7b7e</h1>\n<h2><span class=\"md-tag\">CSS</span></h2>\n<ul>\n<li><a href=\"posts/tech/first.md\">first blog</a></li>\n</ul>\n<h2><span class=\"md-tag\">HTML5</span></h2>\n<ul>\n<li><a href=\"posts/tech/first.md\">first blog</a></li>\n</ul>\n<h2>&lt;sp...</h2>",
+            "content_html": "<h1>\u6807\u7b7e</h1>\n<h2><span class=\"md-tag\">Demo</span></h2>\n<ul>\n<li><a href=\"posts/tech/MKDocs_Demo.md\">Mkdocs\u7684\u793a\u4f8b</a></li>\n</ul>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/tags.png",
-            "date_published": "2025-07-28T19:36:10+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
-            "id": "https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/",
-            "url": "https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/",
-            "title": "\u6280\u672f",
-            "content_html": "<h1>\u6280\u672f</h1>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/category/\u6280\u672f.png",
-            "date_published": "2025-07-28T12:18:35.516773+00:00",
+            "date_published": "2025-07-29T20:26:50+00:00",
             "authors": [],
             "tags": []
         },
@@ -82,17 +62,7 @@
             "title": "\u751f\u6d3b",
             "content_html": "<h1>\u751f\u6d3b</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/category/\u751f\u6d3b.png",
-            "date_published": "2025-07-28T12:18:35.504237+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
-            "id": "https://laiyierjiangsu.github.io/2024/",
-            "url": "https://laiyierjiangsu.github.io/2024/",
-            "title": "2024",
-            "content_html": "<h1>2024</h1>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/2024.png",
-            "date_published": "2025-07-28T12:18:35.491987+00:00",
+            "date_published": "2025-07-29T12:38:50.717887+00:00",
             "authors": [],
             "tags": []
         },
@@ -102,7 +72,7 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/2025.png",
-            "date_published": "2025-07-28T12:18:35.480949+00:00",
+            "date_published": "2025-07-29T12:38:50.680592+00:00",
             "authors": [],
             "tags": []
         },
@@ -112,7 +82,7 @@
             "title": "\u6700\u8fd1\u53d1\u5e03",
             "content_html": "<h1>\u6700\u8fd1\u53d1\u5e03</h1>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/index.png",
-            "date_published": "2025-07-24T15:25:41+00:00",
+            "date_published": "2025-07-17T15:17:06+00:00",
             "authors": [],
             "tags": []
         },
@@ -120,29 +90,9 @@
             "id": "https://laiyierjiangsu.github.io/about/",
             "url": "https://laiyierjiangsu.github.io/about/",
             "title": "\u5173\u4e8e",
-            "content_html": "<h1>\u5173\u4e8e</h1>\n<p><img alt=\"\u6211\u7684\u7167\u7247\" src=\"assets/kaka.jpg\"></p>\n<h1>\u793e\u4ea4</h1>\n<ul>\n<li><a href=\"https://www.zhihu.com/people/laiyierjiangsu\">\u77e5\u4e4e</a></li>\n<li><a href=\"https://www.douban.com/people/KHacker\">\u8c46\u74e3</a></li>\n<li>[Github](https://githu...</li>\n</ul>",
+            "content_html": "<h1>\u5173\u4e8e</h1>\n<p><img alt=\"\u6211\u7684\u7167\u7247\" src=\"assets/kaka.jpg\">\n&emsp;\u6211\u662f\u4e00\u540d\u8f6f\u4ef6\u5de5\u7a0b\u5e08\uff0c\u4e4b\u524d\u5728\u817e\u8baf\u4ece\u4e8b\u8fc715\u5e74\u7684\u6e38\u620f\u5f00\u53d1\uff0c\u73b0\u5728\u8fdb\u5165\u65b0\u7684\u9886\u57df\u505a\u4e00\u4e9bToB\u684c\u9762\u8f6f\u4ef6\u7684\u5f00\u53d1\u3002\u6211\u7684\u5174\u8da3\u9886\u57df\u5305\u62ec\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u9006\u5411\u5206\u6790\u3001\u56fe\u5f62\u4e0e\u52a8\u753b\u3001\u673a\u5668\u5b66\u4e60\u3001\u6e38\u620f\u5f00\u53d1\u3001\u8ba1\u7b97\u7406\u8bba\u4ee5\u53ca\u7f16\u7a0b\u8bed\u8a00\u3002\u5982\u679c\u6709\u9700\u8981\uff0c\u60a8\u53ef\u4ee5\u901a\u8fc7laiyierjiangs...</p>",
             "image": "https://laiyierjiangsu.github.io/assets/images/social/about.png",
-            "date_published": "2025-07-23T15:22:35+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
-            "id": "https://laiyierjiangsu.github.io/rss/",
-            "url": "https://laiyierjiangsu.github.io/rss/",
-            "title": "\u8ba2\u9605",
-            "content_html": "<h1>\u8ba2\u9605</h1>\n<ul>\n<li><a href=\"http://laiyierjiangsu.github.io/feed_rss_created.xml\">Created</a></li>\n<li><a href=\"http://laiyierjiangsu.github.io/feed_rss_updated.xml\">Updated</a></li>\n</ul>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/rss.png",
-            "date_published": "2025-07-23T15:22:35+00:00",
-            "authors": [],
-            "tags": []
-        },
-        {
-            "id": "https://laiyierjiangsu.github.io/2025/03/28/third/",
-            "url": "https://laiyierjiangsu.github.io/2025/03/28/third/",
-            "title": "Third",
-            "content_html": "<p>This is summary!</p>",
-            "image": "https://laiyierjiangsu.github.io/assets/images/social/posts/tech/third.png",
-            "date_published": "2025-03-28T00:00:00+00:00",
+            "date_published": "2025-07-17T15:17:06+00:00",
             "authors": [],
             "tags": []
         }
