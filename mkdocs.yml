@@ -167,7 +167,7 @@ watch: # serve 实时预览模式下检测更改的目录或文件
 plugins:
   - git-authors
   - git-committers:
-      branch: web-framework
+      branch: main
       repository: laiyierjiangsu/laiyierjiangsu.github.io 
   - git-revision-date-localized:
       type: date
