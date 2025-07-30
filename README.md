@@ -2,6 +2,7 @@
 ## 准备
 - [参考教程](https://squidfunk.github.io/mkdocs-material/);
 -  腾讯云申请域名，并通过cname指向github pages 地址;
+-  未当前仓库申请一个访问token,并配置环境变量MKDOCS_GIT_COMMITTERS_APIKEY用于获取文档的更新信息
 - 当前仓库为所有网页相关的代码;
 - blog_image 作为图床使用，避免当前仓库冗余，额外增加发布时间;
 - giscus_comment 评论仓库;
@@ -35,5 +36,8 @@
 
 ~~~
 
-## 注意点
-- 每次指向发布时候，需要在pages页面重新设置自己的域名;
+## 发布流程
+- develop分支开放， 本地测试
+- develop 发布， 外网测试
+- merge代码至main分支， 发布，外网测试
+ 
