@@ -9,7 +9,13 @@ copyright:  Copyright &copy; 2016 - 2025 KakaYin <a href="#__consent">Change coo
 
 remote_branch: gh-pages # GitHub Pages 远程分支名称（默认值）
 remote_name: origin # 远程名称（默认值）
-docs_dir: docs # 文档目录（默认值）
+
+# 文档目录（默认值）
+docs_dir: docs 
+exclude_docs: |
+  # 排除目录
+  /includes/
+
 site_dir: site # 网站目录（默认值）
 dev_addr: 127.0.0.1:8000 # 预览模式地址（默认值）
 use_directory_urls: true # URL 使用目录名还是文件名（默认值）
