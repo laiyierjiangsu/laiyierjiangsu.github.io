@@ -1,5 +1,233 @@
-site_name: kaka
-nav:
-  - Home: index.md
-  - About: about.md
-theme: readthedocs
+site_name: Kaka's Blog
+site_author: Kaka Yin # 站点作者
+site_url: https://laiyierjiangsu.github.io
+repo_name: laiyierjiangsu/laiyierjiangsu.github.io 
+site_description: "Kaka's Blog is a personal blog that records life and technology, aiming to share personal experiences, learning notes, and technical articles. The blog covers various fields, including life snippets, programming skills, software development, front-end technology, etc., hoping to help more people improve their skills and solve problems."
+copyright:  Copyright &copy; 2016 - 2025 KakaYin <a href="#__consent">Change cookie settings</a>
+#edit_uri: edit/main/docs # 编辑地址
+#edit_uri_template: null # 编辑地址模板（默认值）
+
+remote_branch: gh-pages # GitHub Pages 远程分支名称（默认值）
+remote_name: origin # 远程名称（默认值）
+
+# 文档目录（默认值）
+docs_dir: docs 
+exclude_docs: |
+  # 排除目录
+  /includes/
+
+site_dir: site # 网站目录（默认值）
+dev_addr: 127.0.0.1:8000 # 预览模式地址（默认值）
+use_directory_urls: true # URL 使用目录名还是文件名（默认值）
+strict: false # 警告级别（默认值），出现警告就终止程序
+
+theme: 
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/logo.svg
+  features:
+    - announce.dismiss # 公告栏可以被关闭
+    - search.share # 搜索栏分享按钮
+    - search.suggest # 搜索栏内容建议
+    - search.highlight # 搜索栏内容高亮
+    - content.action.edit # 允许页面被编辑（会出现编辑按钮）
+    - content.action.view # 允许查看页面的源代码（会出现查看源代码按钮）
+    - content.tooltips # 提示框（以前有的样式变好看了，此外还支持更高级的提示框语法）
+    - content.code.copy # 例如：``` python { .yaml .copy } 默认开启，{ .yaml .no-copy } 关闭
+    - content.code.annotate # 允许内联代码注释
+    - content.tabs.link # 同样的标签，整个网站的同步切换，如 C -> C++，则其它类似的全部标签都同步切换
+    - navigation.top # 回到顶部的按钮
+    - navigation.tracking # 锚点跟踪
+    - navigation.footer # 页面底下换页的支持
+    - navigation.indexes # 左侧边栏大节点是否可以被导向到 index.md，可以不写，但不能没有
+    - navigation.instant # 页面不会重复加载（已加载页面不会再次加载）
+    - navigation.instant.progress # 加载速度慢时，在页面顶部显示加载进度（400ms 以上加载时间才会显示它）
+    - navigation.tabs # 页面顶部导航栏
+    # - navigation.tabs.sticky # 导航栏标题栏位置固定
+    # - navigation.sections # 左侧边栏节点是否保持展开
+    # - navigation.expand # 左侧边栏节点默认全部展开（与 navigation.prune 不兼容）
+    # - navigation.prune # 左侧栏节点至多展开一个，以此来减小站点的构建大小（对于页数100+的网站很有用，与 navigation.expand 不兼容）
+    # - toc.integrate # 右边侧栏是否集成到左侧边栏（与 navigation.indexes 不兼容）
+    - toc.follow # 锚点关注，侧边栏自动滚动，使锚点总是可见
+    
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+markdown_extensions:
+  - abbr
+  - def_list
+  - footnotes # 支持脚注
+  - admonition # 支持警告框
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.blocks.caption
+  - pymdownx.superfences: # 块的嵌套
+      custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/abbreviations.md
+  - md_in_html
+  - attr_list # 支持 HTML 属性
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+extra:
+  # 暂不使用
+  #欧盟 GDPR、《电子隐私条例》（ePrivacy Directive）等法律规定，凡收集用户任何信息（如 Cookie、分析工具、第三方服务）的网站都需要告知用户并获得同意。这类提示就是协议合规的体现。
+  #你的网站只要面向欧盟/英国等用户（甚至全球），理论上就应添加该提示，不然有被投诉或处罚的风险
+  #consent:
+    #title: Cookie consent
+    #description: >- 
+                #我们使用 cookies 来识别您的重复访问和偏好，以及衡量我们文档的有效性和用户是否找到他们正在搜索的内容。<br/>
+                #在您的同意下，您将帮助我们改进我们的文档。（您稍后仍可以在网页左下角重新修改 cookies 设置）
+
+  generator: false
+  analytics:
+    provider: google
+    property: G-FE01CJ4S2K
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+  social:
+    - icon: simple/github
+      link: https://github.com/laiyierjiangsu
+      name: KHacker
+    - icon: simple/youtube
+      link: https://www.youtube.com/@yinlaiyier7070
+      name: Yin Laiyier
+    - icon: simple/x
+      link: https://x.com/guxiren
+      name: laiyierjiangsu
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/396629951
+      name: KHacker
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:laiyierjiangsu@163.com
+      name: Kaka
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mouse.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+watch: # serve 实时预览模式下检测更改的目录或文件
+  - docs/
+  - mkdocs.yml
+
+plugins:
+  - git-authors
+  - git-committers:
+      branch: main
+      #该token只能访问当前仓库
+      token: !ENV MKDOCS_GIT_COMMITTERS_APIKEY
+      repository: laiyierjiangsu/laiyierjiangsu.github.io 
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: true
+  #- privacy  #隐私插件，启用了之后评论无法工作
+  - search
+  - social
+  - glightbox
+  - minify:   #开启压缩，加快编译和部署速度
+      minify_html: true
+      htmlmin_opts:
+        remove_comments: true
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_excerpt: required
+      archive_name: 归档
+      #archive_date_format: MMMM yyyy
+      #archive_url_date_format: yyyy/MM
+      archive_url_format: "{date}"
+      categories_name: 分类
+      categories_url_format: "category/{slug}"
+      pagination_per_page: 5
+      #post_url_format: "blog/{slug}"
+      #可以有很多，但都需要平铺
+      categories_allowed:
+        - 生活
+        - 技术
+  - rss:
+      match_path: ./* #为什么加了posts就不行呢？
+      pretty_print: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+      categories:
+        - 生活
+        - 技术
+
+  - tags:
+      tags_file: tags.md
+
+  # - status:
+  #     <update>: updte
+
+
+# nav:
+#   - index.md
+#   - Blog: 
+#     - tag : blog/tags.md
+#     - blog主页 : blog/index.md
+

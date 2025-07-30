@@ -1,49 +1,9 @@
-# Nescius Hypanis
-
-## Alios requirit palluit putes dempta properas te
-
-Lorem markdownum postquam, Ulixes ibat, quoque dilaniant et ferre possent
-*signataque ferrum posuerunt* putat: nisi. Venit dolebat serpentibus omine,
-rapior veterumque, utrique, [leti simulacraque labor](http://plura.net/) agam.
-
-1. Maeonis et aurum
-2. Perfida aut tempora mihi
-3. Vestes nobiliumque remis
-
-## Merentem quaecumque spem ignis
-
-Ruit iactatis longo factum intravit, iuvenilior procul. Idmoniae mutantur in
-tori cacumine parabat herbis et illa faciat! Noctis in cornua distinxit contenta
-maligne; tamen numen, cadat amat corpus Achaidas conclamat nimium rogat suae
-qui. Ordine potest fuit suo tempora Tempe niteant labores semina reliquit
-cuspide, partim finite, tot. Posco sic; mihi vetui erat opertis at, forsitan
-des.
-
-> Hora modicisque mitte mortuaque videre, *elisi passurae*; texit induta
-> conceperat vidi origine canendi. Et cum. Hanc lumina omnia trepidantis nihil.
-
-## Pisces pervenit proculcat et mollit subibis et
-
-De **tactu**, ore ensis tenebat semper meritam doloris misero: flumina pererrato
-toto medius? Et reccidimus sua multum, at cani nec scitanti nulla ususabstrahit
-oculi captum nacta; clamant una nostri? Cupido turba postquam, Lachne sum,
-bifores tamen rostris profuso Hecaten viscera verba? Primaeque doloris
-pignoribus nec Turnus et **aras Desinet** ut mensas senior clades redde est
-dumque.
-
-    if (surge_trojan + mountain.gigabitDrive(tabletCodecFunction, 5, 3)) {
-        adslError(encryption_hdmi_raid, 2, -4);
-    } else {
-        graphic = flash_vlb;
-    }
-    thyristorHardLink /= wordartAix(double_memory_sector + risc_p +
-            vlog_saas.compileOperationAix(honeypot), piconet.ddrFrameRepository(
-            parallelSpoolBar + domain_horizontal));
-    refreshWhitelist(pda);
-    var zero_ttl = compiler(pciClockRing, flash_terminal, dns);
-
-Cumulumque et mole, quae nec. Non nec, corpora nascentia dabant caeli constantia
-declinat manebit simul. Alba pereat simulacra aspera suis resupino! Sit at,
-notavi terrae ipsa dextrae init cur quibus, est arbore me o hosti maerent *nec*!
-Illum pariter cum horrenda eminet semina, fuisses, donec mecum et sine aret,
-vidisse.
+# 关于
+![我的照片](assets/kaka.jpg)
+&emsp;我是一名软件工程师，之前在腾讯从事过15年的游戏开发，现在进入新的领域做一些ToB桌面软件的开发。我的兴趣领域包括计算机操作系统、逆向分析、图形与动画、机器学习、游戏开发、计算理论以及编程语言。如果有需要，您可以通过laiyierjiangsu@163.com联系我！
+# 社交
+- [知乎](https://www.zhihu.com/people/laiyierjiangsu)
+- [豆瓣](https://www.douban.com/people/KHacker)
+- [Github](https://github.com/laiyierjiangsu)
+- [Youtube](https://www.youtube.com/@yinlaiyier7070)
+- [Twitter](https://x.com/guxiren)
