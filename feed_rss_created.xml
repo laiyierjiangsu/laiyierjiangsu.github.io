@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Tue, 29 Jul 2025 12:38:50 -0000</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 12:38:50 -0000</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 03:50:18 -0000</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 03:50:18 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -45,32 +45,12 @@
 &lt;li&gt;&lt;a href=&#34;http://laiyierjiangsu.github.io/feed_rss_updated.xml&#34;&gt;Updated&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/rss/</link>
-      <pubDate>Tue, 29 Jul 2025 20:26:50 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/rss/</guid>
       
       <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/rss.png" type="image/png" length="32322" />
-      
-    </item>
-    
-    <item>
-      <title>Abbreviations</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;p&gt;&lt;em&gt;[HTML]: Hyper Text Markup Language
-&lt;/em&gt;[W3C]: World Wide Web Consortium&lt;/p&gt;</description>
-      <link>https://laiyierjiangsu.github.io/includes/abbreviations/</link>
-      <pubDate>Tue, 29 Jul 2025 20:26:50 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/includes/abbreviations/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/includes/abbreviations.png" type="image/png" length="48528" />
       
     </item>
     
@@ -86,9 +66,13 @@
       
         
       
-      <description>&lt;h1&gt;Demos For MKDocs&lt;/h1&gt;</description>
+      <description>&lt;h1&gt;Demos For MKDocs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;该页面使用MKDocs官方文档说明的一些特性，来测试整个博客生成和发布的流程。&lt;/li&gt;
+&lt;li&gt;后续有新的特性，可以采用该页面进行测试。&lt;/li&gt;
+&lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</link>
-      <pubDate>Tue, 29 Jul 2025 20:26:50 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</guid>
@@ -111,7 +95,7 @@
 &lt;li&gt;&lt;a href=&#34;posts/tech/MKDocs_Demo.md&#34;&gt;Mkdocs的示例&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/tags/</link>
-      <pubDate>Tue, 29 Jul 2025 20:26:50 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/tags/</guid>
@@ -130,7 +114,7 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Tue, 29 Jul 2025 12:38:50 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 03:50:19 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
@@ -149,7 +133,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Tue, 29 Jul 2025 12:38:50 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 03:50:19 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
