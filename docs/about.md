@@ -6,3 +6,4 @@
 - [豆瓣](https://www.douban.com/people/KHacker)
 - [Github](https://github.com/laiyierjiangsu)
 - [Youtube](https://www.youtube.com/@yinlaiyier7070)
+- [Twitter](https://x.com/guxiren)

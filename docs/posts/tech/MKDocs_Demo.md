@@ -14,7 +14,8 @@ tags:
 
 # Demos For MKDocs
 
-
+- 该页面使用MKDocs官方文档说明的一些特性，来测试整个博客生成和发布的流程。
+- 后续有新的特性，可以采用该页面进行测试。
 <!-- more -->
 
 下面所有的例子都来自于[官方reference的示例](https://squidfunk.github.io/mkdocs-material/reference/annotations/)

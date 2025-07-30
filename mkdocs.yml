@@ -151,11 +151,14 @@ extra:
     - icon: simple/youtube
       link: https://www.youtube.com/@yinlaiyier7070
       name: Yin Laiyier
+    - icon: simple/x
+      link: https://x.com/guxiren
+      name: laiyierjiangsu
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/396629951
       name: KHacker
     - icon: fontawesome/solid/paper-plane
-      link: mailto:406672725@qq.com
+      link: mailto:laiyierjiangsu@163.com
       name: Kaka
 
 extra_css:
