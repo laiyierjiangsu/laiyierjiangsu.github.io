@@ -10,6 +10,24 @@
 
 
 ## 构建
+### Windows 
+~~~
+   #创建环境
+   python -m venv .venv
+
+   # 开启powershell权限
+   Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+   # 激活环境
+   .\.venv\Scripts\Activate.ps1
+
+   #关闭代理，安装依赖
+   pip -r requriement.txt
+   
+   # 安装额外的插件
+   pip install "mkdocs-material[imaging]"
+
+~~~
 ### Mac
 ####  vscode的teminal, 创建环境，方便调试
 
