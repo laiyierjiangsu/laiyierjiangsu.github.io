@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 17 Aug 2025 05:41:32 -0000</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2025 05:41:32 -0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 05:42:12 -0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 05:42:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -41,7 +41,7 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Sun, 17 Aug 2025 05:41:33 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 05:42:13 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
@@ -60,7 +60,7 @@
       
       <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sun, 17 Aug 2025 05:41:33 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 05:42:13 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
@@ -79,7 +79,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Sun, 17 Aug 2025 05:41:33 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 05:42:13 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
@@ -159,21 +159,21 @@
     </item>
     
     <item>
-      <title>标签测试</title>
+      <title>标签</title>
       
       
       
       
         
       
-      <description>&lt;h1&gt;标签测试&lt;/h1&gt;
+      <description>&lt;h1&gt;标签&lt;/h1&gt;
 &lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;Demo&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;posts/tech/MKDocs_Demo.md&#34;&gt;Mkdocs的示例&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;日常&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;[Hacker News](posts/tech/HackerNews...&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/tech/HackerNews.md&#34;&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/tags/</link>
       <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
@@ -181,7 +181,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/tags/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/tags.png" type="image/png" length="38909" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/tags.png" type="image/png" length="38759" />
       
     </item>
     
