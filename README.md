@@ -12,20 +12,30 @@
 ## 构建
 ### Windows 
 ~~~
+   #查看系统的python版本，推荐使用python3.9 ,否则某些库会缺失
+   where python
+   
    #创建环境
-   python -m venv .venv
+   python -m venv venv
 
    # 开启powershell权限
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
    # 激活环境
-   .\.venv\Scripts\Activate.ps1
+    #在Activate.ps1的添加环境变量部分新增代理，用到了google的部分服务
+    $env:HTTP_PROXY = "127.0.0.1:7897"
+    $env:HTTPS_PROXY = "127.0.0.1:7897"
 
-   #关闭代理，安装依赖
-   pip -r requriement.txt
+   .\venv\Scripts\Activate.ps1
+
+   #安装依赖: 1) 关闭代理； 2）禁用源码编译
+   pip install --only-binary=:all: -r requirements.txt
    
    # 安装额外的插件
    pip install "mkdocs-material[imaging]"
+
+   #指定私约测试ssh访问，注意github只允许git用户登录，其他的用户名会被拒绝
+    ssh -Tv -i C:\Users\xxx\.ssh\id_rsa git@github.com
 
 ~~~
 ### Mac
