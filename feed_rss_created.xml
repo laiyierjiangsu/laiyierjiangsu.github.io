@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 17 Aug 2025 05:42:12 -0000</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2025 05:42:12 -0000</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 12:29:36 -0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 12:29:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -41,7 +41,7 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Sun, 17 Aug 2025 05:42:13 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 12:29:37 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
@@ -60,7 +60,7 @@
       
       <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sun, 17 Aug 2025 05:42:13 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 12:29:37 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
@@ -79,12 +79,36 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Sun, 17 Aug 2025 05:42:13 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 12:29:37 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
       
       <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025.png" type="image/png" length="41645" />
+      
+    </item>
+    
+    <item>
+      <title>Windows Kernel Programing</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;Windows 核心编程&lt;/h1&gt;
+&lt;p&gt;&amp;ensp;&amp;ensp;最近工作需要，需要Windows系统的一些编程知识，这些知识10年前做端游的时候曾经使用过，现在Windows7已经被淘汰，Win11成为主流，之前的知识也要与时俱进，想来是需要总结下相关的知识,年纪大了，方便自己将来记忆: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows核心API &lt;/li&gt;
+&lt;li&gt;常见调试工具的使用 &lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts\tech\WindowsPrograming.png" type="image/png" length="57458" />
       
     </item>
     
@@ -171,9 +195,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;posts/tech/MKDocs_Demo.md&#34;&gt;Mkdocs的示例&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;日常&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;Windows&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;posts/tech/HackerNews.md&#34;&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows Kernel Programing](post...&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/tags/</link>
       <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
