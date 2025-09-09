@@ -1,0 +1,3 @@
+[submodule "blog_image"]
+	path = blog_image
+	url = git@github.com:laiyierjiangsu/blog_image.git
