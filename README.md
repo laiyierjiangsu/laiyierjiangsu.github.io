@@ -25,12 +25,21 @@
     #在Activate.ps1的添加环境变量部分新增代理，用到了google的部分服务
     $env:HTTP_PROXY = "127.0.0.1:7897"
     $env:HTTPS_PROXY = "127.0.0.1:7897"
+    #设置系统环境变量用于获取git-committers，这个比较敏感，设置在系统的环境变量中
+    MKDOCS_GIT_COMMITTERS_APIKEY
 
-   .\venv\Scripts\Activate.ps1
+    执行：
+    .\venv\Scripts\Activate.ps1
+    检查环境变量是否ok:
+    $env:HTTP_PROXY
+    $env:HTTPS_PROXY 
+    $env:MKDOCS_GIT_COMMITTERS_APIKEY
 
    #安装依赖: 1) 关闭代理； 2）禁用源码编译
+   pip install --only-binary=:all: -r requirements.txt --proxy=http://127.0.0.1:7897 -i https://pypi.org/simple
    pip install --only-binary=:all: -r requirements.txt
    
+
    # 安装额外的插件
    pip install "mkdocs-material[imaging]"
 
