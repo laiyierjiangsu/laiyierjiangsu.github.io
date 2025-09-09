@@ -45,7 +45,6 @@
 
    #指定私约测试ssh访问，注意github只允许git用户登录，其他的用户名会被拒绝
     ssh -Tv -i C:\Users\xxx\.ssh\id_rsa git@github.com
-    
 
 ~~~
 ### Mac
