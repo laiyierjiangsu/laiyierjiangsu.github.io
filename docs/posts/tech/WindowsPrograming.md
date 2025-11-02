@@ -2,7 +2,7 @@
 title: Windows Kernel Programing
 date:
   created: 2025-09-02
-  updated: 2025-09-06
+  updated: 2025-11-02
 categories:
   - 技术
 tags:
@@ -19,7 +19,7 @@ tags:
 
 
 <!-- more -->
-# Windows 核心编程
+# 知识总结
 ##  多进程通信
 ### 调试器的两种不同Attach方式，导致获取子进程的退出码时存在差异
 [示例代码](https://github.com/laiyierjiangsu/windows_kernal_programing)
@@ -66,5 +66,7 @@ tags:
   SIZE_T PeakPagefileUsage;
   } PROCESS_MEMORY_COUNTERS;
 ```
-- PagefileUsage 代表的是私有内存，和proExp64看到的私有内存是一致的。 这里有一个概念，大多数进程起来的时候，会服用其他的模块的一些公共模块，这些内存不是当前进程私有的； 当我们需要评价一个进程所占用的内存的时候，尽量采用私有内存；
+
+-  PagefileUsage 代表的是私有内存，和proExp64看到的私有内存是一致的。 这里有一个概念，大多数进程起来的时候，会服用其他的模块的一些公共模块，这些内存不是当前进程私有的； 当我们需要评价一个进程所占用的内存的时候，尽量采用私有内存；
+
 - WorkSetSize代表的是物理内存，应该也是其占用的私有物理内存；
