@@ -49,3 +49,22 @@ tags:
  &ensp;&ensp; **RTFM** :[官方文档](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/) 永远是最全的，随时通过关键字进行查询；有些命令可能一开始无法找到对应的文档，你可能通过AI查到，也可能通过咨询同事得到，在解决完问题之后，回到文档中找到对应的章节复习下，记录在这里，下次使用的时候会更加得心应手的。
 
 - .formats:查看一个数字的其他进制格式；
+
+## Windows内存
+
+```
+  typedef struct _PROCESS_MEMORY_COUNTERS {
+  DWORD  cb;
+  DWORD  PageFaultCount;
+  SIZE_T PeakWorkingSetSize;
+  SIZE_T WorkingSetSize;
+  SIZE_T QuotaPeakPagedPoolUsage;
+  SIZE_T QuotaPagedPoolUsage;
+  SIZE_T QuotaPeakNonPagedPoolUsage;
+  SIZE_T QuotaNonPagedPoolUsage;
+  SIZE_T PagefileUsage;
+  SIZE_T PeakPagefileUsage;
+  } PROCESS_MEMORY_COUNTERS;
+```
+- PagefileUsage 代表的是私有内存，和proExp64看到的私有内存是一致的。 这里有一个概念，大多数进程起来的时候，会服用其他的模块的一些公共模块，这些内存不是当前进程私有的； 当我们需要评价一个进程所占用的内存的时候，尽量采用私有内存；
+- WorkSetSize代表的是物理内存，应该也是其占用的私有物理内存；
