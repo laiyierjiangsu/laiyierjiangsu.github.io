@@ -13,12 +13,12 @@
     <language>en</language>
 
     
-    <pubDate>Tue, 09 Sep 2025 13:57:25 -0000</pubDate>
-    <lastBuildDate>Tue, 09 Sep 2025 13:57:25 -0000</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 11:41:54 -0000</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 11:41:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v1.17.3</generator>
+    <generator>MkDocs RSS plugin - v1.17.4</generator>
 
     
     
@@ -41,12 +41,12 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Tue, 09 Sep 2025 13:57:26 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 11:41:55 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category\生活.png" type="image/png" length="38759" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category/生活.png" type="image/png" length="38831" />
       
     </item>
     
@@ -60,12 +60,12 @@
       
       <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Tue, 09 Sep 2025 13:57:26 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 11:41:55 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category\技术.png" type="image/png" length="38759" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/category/技术.png" type="image/png" length="38831" />
       
     </item>
     
@@ -79,12 +79,32 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Tue, 09 Sep 2025 13:57:26 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 11:41:55 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025.png" type="image/png" length="41645" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025.png" type="image/png" length="41706" />
+      
+    </item>
+    
+    <item>
+      <title>AI-Native</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;AI原生开发&lt;/h1&gt;
+&lt;p&gt;&amp;ensp;&amp;ensp;最近公司也在推AI, AI是每个员工的必修课。对于程序员来说AI更是未来必须掌握的技能。在用了两个月的cursor之后，工作效率明显提升： a.对不熟悉的业务代码，cursor能帮你快速入门；b.对比较封闭的模块，cursor可以快速的帮你进行重构；c对于版本中的bug,cursor可以给出修复建议；d.日常一些常见的工作流，可以通过cursor帮你用c++快速的开发一些小工具。 但这些远不够，Calude Code的工作流， skills ,mcp , rag这些可以帮助到我的日常开发吗？ 我不知道，但是我知道AI能够对我的帮助肯定不止这些，抱着拿着锤子找钉子的态度，先系统的学习下AI原生开发是什么吧。&lt;/p&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/11/23/ai-native/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/11/23/ai-native/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/AINativeDevelopment.png" type="image/png" length="44207" />
       
     </item>
     
@@ -108,7 +128,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts\tech\WindowsPrograming.png" type="image/png" length="57458" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/WindowsPrograming.png" type="image/png" length="57536" />
       
     </item>
     
@@ -128,7 +148,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/08/07/hacker-news/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts\tech\HackerNews.png" type="image/png" length="46835" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/HackerNews.png" type="image/png" length="46894" />
       
     </item>
     
@@ -151,7 +171,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/rss/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/rss.png" type="image/png" length="38759" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/rss.png" type="image/png" length="38831" />
       
     </item>
     
@@ -178,7 +198,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts\tech\MKDocs_Demo.png" type="image/png" length="47165" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/MKDocs_Demo.png" type="image/png" length="47423" />
       
     </item>
     
@@ -191,13 +211,13 @@
         
       
       <description>&lt;h1&gt;标签&lt;/h1&gt;
+&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;AI&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;posts/tech/AINativeDevelopment.md&#34;&gt;AI-Native&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;Demo&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;posts/tech/MKDocs_Demo.md&#34;&gt;Mkdocs的示例&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;Windows&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[Windows Kernel Programing](post...&lt;/li&gt;
+&lt;li&gt;[Mkdocs的示例](posts/tech/MKDocs...&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/tags/</link>
       <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
@@ -205,7 +225,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/tags/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/tags.png" type="image/png" length="38759" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/tags.png" type="image/png" length="38831" />
       
     </item>
     
@@ -224,7 +244,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/index.png" type="image/png" length="38909" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/index.png" type="image/png" length="38993" />
       
     </item>
     
@@ -245,7 +265,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/about/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/about.png" type="image/png" length="38759" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/about.png" type="image/png" length="38831" />
       
     </item>
     
