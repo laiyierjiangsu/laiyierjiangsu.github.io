@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 23 Nov 2025 11:41:54 -0000</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 11:41:54 -0000</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 12:19:07 -0000</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 12:19:07 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -41,7 +41,7 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Sun, 23 Nov 2025 11:41:55 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 12:19:08 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
@@ -60,7 +60,7 @@
       
       <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sun, 23 Nov 2025 11:41:55 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 12:19:08 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
@@ -79,7 +79,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Sun, 23 Nov 2025 11:41:55 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 12:19:08 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
@@ -109,6 +109,31 @@
     </item>
     
     <item>
+      <title>OnBoarding Part One :How To Quickly Adapt To A Tech Company</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;2.5 个月入职适应复盘&lt;/h1&gt;
+&lt;p&gt;&amp;ensp;&amp;ensp; 转眼间离开腾讯已经三个月了，而入职新公司已经两个半月了，新公司是我的第二个东家，之前在腾讯虽然有切换过项目，但跟从新入职一家新公司所获的经验，在整个职业生涯还是比较少见的，值得总结。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公司文化&lt;/li&gt;
+&lt;li&gt;日常研发&lt;/li&gt;
+&lt;li&gt;展望&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/11/02/onboarding-part-one-how-to-quickly-adapt-to-a-tech-company/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/11/02/onboarding-part-one-how-to-quickly-adapt-to-a-tech-company/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/life/OnBorading1.png" type="image/png" length="71517" />
+      
+    </item>
+    
+    <item>
       <title>Windows Kernel Programing</title>
       
       
@@ -123,7 +148,7 @@
 &lt;li&gt;常见调试工具的使用 &lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</link>
-      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</guid>
