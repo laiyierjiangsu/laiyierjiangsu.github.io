@@ -61,6 +61,16 @@
     ssh-add -L
     ssh-add --apple-use-keychain ~/.ssh/github   
 
+    pip install --only-binary=:all: -r requirements.txt
+
+    #cario
+    brew install cairo pango gdk-pixbuf libffi
+    export DYLD_LIBRARY_PATH=/opt/homebrew/lib:$DYLD_LIBRARY_PATH
+    export PKG_CONFIG_PATH=/opt/homebrew/lib/pkgconfig:$PKG_CONFIG_PATH
+    添加到 ~/.zshrc
+
+
+
     //查看服务器正在运行的程序端口
     netstat -ntlp 
 
