@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sat, 27 Dec 2025 01:20:27 -0000</pubDate>
-    <lastBuildDate>Sat, 27 Dec 2025 01:20:27 -0000</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 01:39:33 -0000</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 01:39:33 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -41,7 +41,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/page/2/</link>
-      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:39:36 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/page/2/</guid>
@@ -60,7 +60,7 @@
       
       <description>&lt;h1&gt;最近发布&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/page/2/</link>
-      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:39:36 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/page/2/</guid>
@@ -79,7 +79,7 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:39:36 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
@@ -98,7 +98,7 @@
       
       <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:39:36 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
@@ -117,7 +117,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:39:36 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
@@ -201,7 +201,8 @@
         
       
       <description>&lt;h1&gt;浏览器工作原理及其实践&lt;/h1&gt;
-&lt;p&gt;&amp;ensp;&amp;ensp; 目前的业务是通过原生应用通过native的webview来显示网页，所以需要了解下浏览器的原理。&lt;/p&gt;</description>
+&lt;p&gt;&amp;ensp;&amp;ensp;目前的业务是通过原生应用通过 native 的 webview 来显示网页，所以需要了解下浏览器的原理。本文总结自极客时间的浏览器工作原理课程，旨在梳理浏览器底层机制，为前端开发和性能优化提供理论基础。&lt;/p&gt;
+&lt;p&gt;参考：&lt;a href=&#34;https://time.geekbang.org/column/article/140140&#34;&gt;极客时间 - 浏览器工作原理与实践&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/12/07/deep-dive-into-browser/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_created.xml">Kaka's Blog</source>
