@@ -2,50 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://laiyierjiangsu.github.io/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/about/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/rss/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/2025/11/02/onboarding-part-one-how-to-quickly-adapt-to-a-tech-company/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/2025/11/23/ai-native/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
+    </url>
+    <url>
+         <loc>https://laiyierjiangsu.github.io/2025/12/27/ai%E5%8E%9F%E7%94%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E5%8F%8A%E5%85%B6%E5%AE%9E%E8%B7%B5/</loc>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/2025/08/07/hacker-news/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
+    </url>
+    <url>
+         <loc>https://laiyierjiangsu.github.io/2025/12/07/deep-dive-into-browser/</loc>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/2025/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
+    </url>
+    <url>
+         <loc>https://laiyierjiangsu.github.io/page/2/</loc>
+         <lastmod>2025-12-27</lastmod>
+    </url>
+    <url>
+         <loc>https://laiyierjiangsu.github.io/2025/page/2/</loc>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://laiyierjiangsu.github.io/tags/</loc>
-         <lastmod>2025-12-07</lastmod>
+         <lastmod>2025-12-27</lastmod>
     </url>
 </urlset>

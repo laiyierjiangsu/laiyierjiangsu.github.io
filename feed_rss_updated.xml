@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 07 Dec 2025 07:46:07 -0000</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 07:46:07 -0000</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 01:20:27 -0000</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 01:20:27 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,44 @@
     
     
     <item>
+      <title>2025</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/page/2/</link>
+      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/page/2/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025/page/2.png" type="image/png" length="41706" />
+      
+    </item>
+    
+    <item>
+      <title>最近发布</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;最近发布&lt;/h1&gt;</description>
+      <link>https://laiyierjiangsu.github.io/page/2/</link>
+      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/page/2/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/page/2/index.png" type="image/png" length="38993" />
+      
+    </item>
+    
+    <item>
       <title>生活</title>
       
       
@@ -41,7 +79,7 @@
       
       <description>&lt;h1&gt;生活&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Sun, 07 Dec 2025 07:46:08 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E7%94%9F%E6%B4%BB/</guid>
@@ -60,7 +98,7 @@
       
       <description>&lt;h1&gt;技术&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sun, 07 Dec 2025 07:46:08 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/category/%E6%8A%80%E6%9C%AF/</guid>
@@ -79,12 +117,78 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://laiyierjiangsu.github.io/2025/</link>
-      <pubDate>Sun, 07 Dec 2025 07:46:08 +0000</pubDate>
+      <pubDate>Sat, 27 Dec 2025 01:20:30 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/</guid>
       
       <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/2025.png" type="image/png" length="41706" />
+      
+    </item>
+    
+    <item>
+      <title>AI原生编程入门及其实践</title>
+      
+      
+      
+      
+        
+      
+      <description></description>
+      <link>https://laiyierjiangsu.github.io/2025/12/27/ai%E5%8E%9F%E7%94%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E5%8F%8A%E5%85%B6%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/12/27/ai%E5%8E%9F%E7%94%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E5%8F%8A%E5%85%B6%E5%AE%9E%E8%B7%B5/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/AI/AINativeProgrammingIntro.png" type="image/png" length="41254" />
+      
+    </item>
+    
+    <item>
+      <title>Hacker News</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;Tech Web&lt;/h1&gt;
+&lt;p&gt;汇总自己日常关注的一些技术网站或者博客,一来作为统一的入口方便访问，二来不管过了多久，回头来看看大神博客，了解他们的成长轨迹&lt;/p&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/08/07/hacker-news/</link>
+      <pubDate>Sun, 07 Dec 2025 16:33:31 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/08/07/hacker-news/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/Misc/HackerNews.png" type="image/png" length="46894" />
+      
+    </item>
+    
+    <item>
+      <title>Mkdocs的示例</title>
+      
+      
+        
+      <author>KakaYin</author>
+        
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;Demos For MKDocs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;该页面使用MKDocs官方文档说明的一些特性，来测试整个博客生成和发布的流程。&lt;/li&gt;
+&lt;li&gt;后续有新的特性，可以采用该页面进行测试。&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</link>
+      <pubDate>Sun, 07 Dec 2025 16:33:31 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/Misc/MKDocs_Demo.png" type="image/png" length="47423" />
       
     </item>
     
@@ -111,7 +215,27 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/11/23/ai-native/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/AINativeDevelopment.png" type="image/png" length="44207" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/AI/AINativeDevelopment.png" type="image/png" length="44207" />
+      
+    </item>
+    
+    <item>
+      <title>Deep Dive Into Browser</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;浏览器工作原理及其实践&lt;/h1&gt;
+&lt;p&gt;&amp;ensp;&amp;ensp; 目前的业务是通过原生应用通过native的webview来显示网页，所以需要了解下浏览器的原理。&lt;/p&gt;</description>
+      <link>https://laiyierjiangsu.github.io/2025/12/07/deep-dive-into-browser/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
+      
+      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/12/07/deep-dive-into-browser/</guid>
+      
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/Web/DeepDiveIntoBrowser.png" type="image/png" length="53460" />
       
     </item>
     
@@ -160,27 +284,7 @@
       
       <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/09/02/windows-kernel-programing/</guid>
       
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/WindowsPrograming.png" type="image/png" length="57536" />
-      
-    </item>
-    
-    <item>
-      <title>Hacker News</title>
-      
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;Tech Web&lt;/h1&gt;
-&lt;p&gt;汇总自己日常关注的一些技术网站或者博客,一来作为统一的入口方便访问，二来不管过了多久，回头来看看大神博客，了解他们的成长轨迹&lt;/p&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2025/08/07/hacker-news/</link>
-      <pubDate>Thu, 07 Aug 2025 10:51:10 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/08/07/hacker-news/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/HackerNews.png" type="image/png" length="46894" />
+      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/Native/WindowsPrograming.png" type="image/png" length="57536" />
       
     </item>
     
@@ -248,33 +352,6 @@
     </item>
     
     <item>
-      <title>Mkdocs的示例</title>
-      
-      
-        
-      <author>KakaYin</author>
-        
-      
-      
-      
-        
-      
-      <description>&lt;h1&gt;Demos For MKDocs&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;该页面使用MKDocs官方文档说明的一些特性，来测试整个博客生成和发布的流程。&lt;/li&gt;
-&lt;li&gt;后续有新的特性，可以采用该页面进行测试。&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</link>
-      <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
-      <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
-      
-      <guid isPermaLink="true">https://laiyierjiangsu.github.io/2025/07/29/mkdocs%E7%9A%84%E7%A4%BA%E4%BE%8B/</guid>
-      
-      <enclosure url="https://laiyierjiangsu.github.io/assets/images/social/posts/tech/MKDocs_Demo.png" type="image/png" length="47423" />
-      
-    </item>
-    
-    <item>
       <title>标签</title>
       
       
@@ -285,12 +362,10 @@
       <description>&lt;h1&gt;标签&lt;/h1&gt;
 &lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;AI&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;posts/tech/AINativeDevelopment.md&#34;&gt;AI-Native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/tech/AI/AINativeDevelopment.md&#34;&gt;AI-Native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/tech/AI/AINativeProgrammingIntro.md&#34;&gt;AI原生编程入门及其实践&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;Demo&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[Mkdocs的示例](posts/tech/MKDocs...&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;h2&gt;&amp;lt;s...&lt;/h2&gt;</description>
       <link>https://laiyierjiangsu.github.io/tags/</link>
       <pubDate>Wed, 30 Jul 2025 11:48:05 +0000</pubDate>
       <source url="https://laiyierjiangsu.github.io/feed_rss_updated.xml">Kaka's Blog</source>
