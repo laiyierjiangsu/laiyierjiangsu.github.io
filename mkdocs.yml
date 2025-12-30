@@ -177,6 +177,7 @@ plugins:
   - git-authors
   - git-committers:
       branch: main
+      enabled: false # disable GitHub API usage
       #该token只能访问当前仓库
       token: !ENV MKDOCS_GIT_COMMITTERS_APIKEY
       repository: laiyierjiangsu/laiyierjiangsu.github.io 

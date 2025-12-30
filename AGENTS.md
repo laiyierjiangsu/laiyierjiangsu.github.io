@@ -1,0 +1,3 @@
+## Skills
+- mkdocs-serve-win: Start and verify a local MkDocs dev server on Windows for this repo. Use when asked to run mkdocs locally, open the test page, or troubleshoot port 8000 with venv/PowerShell. (path: F:\Github\blog-heykaka\laiyierjiangsu.github.io\AI Tool\skills\mkdocs-serve-win\SKILL.md)
+- blog-content-converter: Convert DOCX files to Markdown for blog publishing with automatic image extraction and GitHub URL generation. Supports MkDocs blog format with proper frontmatter, LaTeX math expressions, and progressive content loading. (path: F:\Github\blog-heykaka\laiyierjiangsu.github.io\AI Tool\skills\blog-content-converter\SKILL.md)
